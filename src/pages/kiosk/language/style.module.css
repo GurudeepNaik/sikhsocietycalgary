@@ -1,0 +1,118 @@
+.container {
+  background-color: #ffffffd4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.choose_your {
+  color: #202050;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.text_wrapper {
+  color: #202050;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+.span {
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+}
+
+.frame {
+  background: linear-gradient(
+    180deg,
+    rgba(238.88, 231.62, 255, 0.58) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  border: 0.63px none;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+}
+
+.language {
+  height: 30px;
+  width: 30px;
+  display: block;
+  margin: auto;
+}
+
+
+.component {
+    align-items: flex-start;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.34) 0%, rgba(255, 255, 255, 0.17) 100%);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    padding: 32px;
+    /* position: relative; */
+    border: 1px solid;
+    border-color: #9A9FB0;
+    height: 210px;
+    width: 302px;
+    cursor: pointer;
+}
+
+.text_heading {
+    color: #33374B;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.text_content {
+    color:#1E2028;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.active {
+    border: 5px solid;
+    border-color: #F20D0D;
+    box-shadow: 0px 4px 20px #d78b8b7a;
+    height: 213px;
+    width: 305px;
+}

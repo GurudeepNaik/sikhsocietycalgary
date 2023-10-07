@@ -1,0 +1,75 @@
+.frame01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #f0f0f0;
+  position: relative;
+}
+.frame01 {
+  filter: blur(8px) brightness(100%) contrast(75%);
+  -webkit-filter: blur(8px) brightness(100%) contrast(75%);
+}
+
+.div_1 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame83.png);
+  height: 35vh;
+}
+.div_2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame84.png);
+  height: 35vh;
+}
+.div_3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame85.png);
+  height: 25vh;
+}
+.div_4 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame86.png);
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div_5 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame87.png);
+  height: 25vh;
+}
+.div_6 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame88.png);
+  height: 35vh;
+}
+.div_7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 100%;
+  background-image: url(/assets/kiosk/Frame89.png);
+  height: 35vh;
+}
+
+.logo_center {
+  height: 190px;
+  width: 240px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,158 @@
+.frame02 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffffff99;
+  position: relative;
+}
+.SIKH_SOCIETY_CALGARY_wrapper {
+  -webkit-backdrop-filter: blur(24px) brightness(100%);
+  backdrop-filter: blur(24px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.81) 0%,
+    rgba(229.5, 229.5, 229.5, 0.42) 100%
+  );
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.59),
+      rgba(255, 255, 255, 0.29)
+    )
+    1;
+  border-radius: 16px;
+  height: 307px;
+  width: 353px;
+  overflow: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.SIKH_SOCIETY_CALGARY {
+  height: 201px;
+  width: 261px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.div_1 {
+  background-image: url(/assets/kiosk/Frame115.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_2 {
+  background-image: url(/assets/kiosk/Frame106.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_3 {
+  background-image: url(/assets/kiosk/Frame105.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_4 {
+  background-image: url(/assets/kiosk/Frame111.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_5 {
+  background-image: url(/assets/kiosk/Frame113.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_6 {
+  background-image: url(/assets/kiosk/Frame100.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_7 {
+  background-image: url(/assets/kiosk/Frame103.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_8 {
+  background-image: url(/assets/kiosk/Frame110.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_9 {
+  background-image: url(/assets/kiosk/Frame114.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_10 {
+  background-image: url(/assets/kiosk/Frame101.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_11 {
+  background-image: url(/assets/kiosk/Frame104.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_12 {
+  background-image: url(/assets/kiosk/Frame109.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_13 {
+  background-image: url(/assets/kiosk/Frame116.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_14 {
+  background-image: url(/assets/kiosk/Frame108.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_15 {
+  background-image: url(/assets/kiosk/Frame107.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
+.div_16 {
+  background-image: url(/assets/kiosk/Frame112.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23vh;
+  width: 100%;
+}
