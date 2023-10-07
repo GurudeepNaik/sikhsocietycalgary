@@ -43,7 +43,6 @@ const Page = () => {
   const handleNext =async () => {
     if(formik){
       console.log(formik);
-      const errors
       const data=await formik.handleSubmit();
       console.log(data);
       let newSkipped = skipped;
